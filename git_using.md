@@ -1,6 +1,6 @@
 # Git&Github learning (by vscode)
 
-## basic steps
+## preparation steps
 
 0. __problem I encountered__
    - no more
@@ -21,7 +21,7 @@
 0. __problem I encountered/confusions__
    - the user.name and user.email:solution git config user.name (your githubname) git config user.email (your githubemail)
    - after submission, i cant find the change/the file in the folder. solution: save the file and you can see the change, the status is M.
-   - 
+   - it create another repository, not in the exist repository, how to change it?
 1. after add the change to the repository, we can submit it.
 2. you can publish it to the github.
 
@@ -33,3 +33,11 @@
 2. discard/stage all the changes
 3. inline view to see all the changes. It consolidated them.
 4. add a new branch and save it in the new branch, if you want to overwrite the previous version, you can use merge to reflect the changes.
+
+## clone
+
+0. __problem I encountered/confusions__
+   - no more
+1. code + https URL
+2. ctrl+shift+P
+3. clone from the URL: specify where i want to clone
