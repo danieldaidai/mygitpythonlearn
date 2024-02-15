@@ -3,7 +3,7 @@
 ## basic steps
 
 0. __problem I encountered__
-   - no
+   - no more
 1. download git, vscode, create a repository, plug-in git
 2. change to source control
 3. initial git
@@ -20,14 +20,15 @@
 
 0. __problem I encountered/confusions__
    - the user.name and user.email:solution git config user.name (your githubname) git config user.email (your githubemail)
-   - after submission, i cant find the change/the file in the folder. solution: save the file and you can see the change, the status is M
+   - after submission, i cant find the change/the file in the folder. solution: save the file and you can see the change, the status is M.
+   - 
 1. after add the change to the repository, we can submit it.
-2. you can submit it to the github
+2. you can publish it to the github.
 
 ## version management
 
 0. __problem I encountered/confusions__
-   - the user.name and user.email:solution git config user.name (your githubname) git config user.email (your githubemail)
+   - no more
 1. green represents change lines for data.deleted have a red arrow. a shattered blue change the data.
 2. discard/stage all the changes
 3. inline view to see all the changes. It consolidated them.
